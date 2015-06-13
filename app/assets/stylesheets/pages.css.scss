@@ -1,0 +1,12 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.header li {
+display: inline;
+color: white;
+}
+.jumbotron {
+  background-image: url(http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg);
+  background-size: cover;
+}
